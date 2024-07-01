@@ -42,8 +42,7 @@ public class User {
 		StringBuilder sb = new StringBuilder("Automation");
 		System.out.println(sb.append("Testing"));// AutomationTesting
 		
-		String S9 = "Inida";
-		System.out.println(S9.toUpperCase());
+		
 
 	}
 
